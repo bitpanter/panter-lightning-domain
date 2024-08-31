@@ -80,7 +80,7 @@ export default function Component() {
                 <GlobeIcon className="h-12 w-12 mb-2 text-orange-500" />
                 <h3 className="text-xl font-bold text-orange-500">Acceso Global</h3>
                 <p className="text-orange-300 text-center">
-                  Usa tu wallet en cualquier parte del mundo, sin restricciones.
+                  Usa tu wallet en cualquier parte del mundo, sin restricciones!
                 </p>
               </div>
             </div>
